@@ -7,3 +7,7 @@ How run.
 
 1. For run the app you need to open a new terminal and write 'npm start'.
 2. You can open the cmd in folder and creathe build with 'npm run build'. Then open that folder and run app with live  server
+
+***IMPORTANT***
+
+You need to write in terminal 'npm i' or 'npm instal' for instal node_modules folder.
